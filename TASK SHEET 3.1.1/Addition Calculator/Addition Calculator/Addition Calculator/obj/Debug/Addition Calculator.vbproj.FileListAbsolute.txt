@@ -1,0 +1,13 @@
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\bin\Debug\Addition Calculator.exe.config
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\bin\Debug\Addition Calculator.exe
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\bin\Debug\Addition Calculator.pdb
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\bin\Debug\Addition Calculator.xml
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\obj\Debug\Addition Calculator.vbproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\obj\Debug\Addition Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\obj\Debug\Addition_Calculator.Form1.resources
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\obj\Debug\Addition_Calculator.Resources.resources
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\obj\Debug\Addition Calculator.vbproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\obj\Debug\Addition Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\obj\Debug\Addition Calculator.exe
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\obj\Debug\Addition Calculator.xml
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Addition Calculator\Addition Calculator\obj\Debug\Addition Calculator.pdb
