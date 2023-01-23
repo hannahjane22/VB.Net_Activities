@@ -1,0 +1,13 @@
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\bin\Debug\Color FormRGB(code).exe.config
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\bin\Debug\Color FormRGB(code).exe
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\bin\Debug\Color FormRGB(code).pdb
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\bin\Debug\Color FormRGB(code).xml
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\obj\Debug\Color FormRGB(code).vbproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\obj\Debug\Color FormRGB(code).vbproj.SuggestedBindingRedirects.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\obj\Debug\Color_FormRGB_code_.Form1.resources
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\obj\Debug\Color_FormRGB_code_.Resources.resources
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\obj\Debug\Color FormRGB(code).vbproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\obj\Debug\Color FormRGB(code).vbproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\obj\Debug\Color FormRGB(code).exe
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\obj\Debug\Color FormRGB(code).xml
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\Color FormRGB(code)\Color FormRGB(code)\obj\Debug\Color FormRGB(code).pdb
