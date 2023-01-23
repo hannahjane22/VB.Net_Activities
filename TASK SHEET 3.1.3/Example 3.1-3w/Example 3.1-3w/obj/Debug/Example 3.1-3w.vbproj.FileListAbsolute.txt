@@ -1,0 +1,13 @@
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\bin\Debug\Example 3.1-3w.exe.config
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\bin\Debug\Example 3.1-3w.exe
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\bin\Debug\Example 3.1-3w.pdb
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\bin\Debug\Example 3.1-3w.xml
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\obj\Debug\Example 3.1-3w.vbproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\obj\Debug\Example 3.1-3w.vbproj.SuggestedBindingRedirects.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\obj\Debug\Example_3._1_3w.Form1.resources
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\obj\Debug\Example_3._1_3w.Resources.resources
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\obj\Debug\Example 3.1-3w.vbproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\obj\Debug\Example 3.1-3w.vbproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\obj\Debug\Example 3.1-3w.exe
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\obj\Debug\Example 3.1-3w.xml
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.3\Example 3.1-3w\Example 3.1-3w\obj\Debug\Example 3.1-3w.pdb
