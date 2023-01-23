@@ -1,0 +1,13 @@
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe.config
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.pdb
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.xml
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.vbproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.vbproj.SuggestedBindingRedirects.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.Form1.resources
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.Resources.resources
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.vbproj.GenerateResource.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.vbproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.exe
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.xml
+C:\Users\marti\OneDrive\Documents\Summer Class Year 2022\VB.Net\Marticio_VB_Quiz&Program\TASK SHEET 3.1.1\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.pdb
